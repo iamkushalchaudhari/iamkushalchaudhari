@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Cleaning-Executives-Final](https://github.com/iamkushalchaudhari/Cleaning-Executives-Final)
 
-- 🌱 I’m currently learning **react, javascript and firebase**
+- 🌱 I’m currently learning **java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamkushalchaudhari](https://github.com/iamkushalchaudhari)
 
-- 💬 Ask me about **CSS, Tailwind, react**
+- 💬 Ask me about **CSS, Tailwind, Javascript**
 
 - 📫 How to reach me **chaudharikushalganesh@gmail.com**
 
