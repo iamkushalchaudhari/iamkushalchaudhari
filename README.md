@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamkushalchaudhari" alt="iamkushalchaudhari" /></a> </p>
 
-- 🔭 I’m currently working on react [Cleaning-Executives-Final](https://github.com/iamkushalchaudhari/Cleaning-Executives-Final)
-
 - 🌱 I’m currently learning **java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamkushalchaudhari](https://github.com/iamkushalchaudhari)
