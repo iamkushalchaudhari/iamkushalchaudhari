@@ -1,7 +1,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="" width="600" />  
   
-
-### <div align="center">Myself Kushal Chaudhari, a Computer Engineering student 🚀, and Web Developer👨‍💻</div>  
+<div>
+<div align="center">Myself Kushal Chaudhari, a Computer Engineering student 🚀, and Web Developer👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Custom ChatGPT](https://github.com/iamkushalchaudhari/Chatgpt)  
@@ -15,7 +15,7 @@
 
 -  💼 Porfolio : https://kushal.vercel.app/  
   
-
+</div>
 <br/>  
 
 
