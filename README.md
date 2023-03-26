@@ -77,7 +77,7 @@
 
 <br/>  
 </div>
-<div align="center" style="padding:10px">
+<div align="center" style="padding:100px">
 <img src="https://komarev.com/ghpvc/?username=iamkushalchaudhari&&style=flat-square" align="center" />
 </div>  
 
