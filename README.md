@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Kushal Chaudhari, a computer engineering student 👨‍💻 and web developer 🚀</div>  
   
-<div align ="center">
+
 - 🔭 I’m currently working on [Custom ChatGPT](https://github.com/iamkushalchaudhari/Chatgpt)  
   
 
@@ -17,7 +17,7 @@
 
 - 💼 Portfolio : https://kushal.vercel.app/  
   
-</div>
+
 <br/>  
 
 
@@ -82,5 +82,3 @@
 </div>  
 
 <br />
-
-
